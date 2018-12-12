@@ -3,7 +3,7 @@ public class HelloWorld {
       // Prints "Hello, World" in the terminal window.
       System.out.println("Hello, Worsld");
    }
-   /**
- @wi.implements http://localhost/polarion/#/project/elibrary/workitem?id=EL-89 This looks good!!
+/**
+ @wi.implements elibrary/EL-89 This looks good!!
  */
 }
