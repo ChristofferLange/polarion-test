@@ -7,8 +7,6 @@ carDashboard.connectAndroidPanel(function (request, response) {
    connect.bluetooth(car, frameElement);
    connect.bluetooth(wirelessMode, unlink);
    connect.car(user,interface);
-   
-   connect.user(user, password);
 
 
 }).listen(8081);
