@@ -10,6 +10,7 @@ http.createServer(function (request, response) {
    response.end('Hello Worldzzzsssssz!\n');
 }).listen(8081);
 
+@test
 /**
  @wi.implements elibrary/EL-89 This looks good!!
  */
