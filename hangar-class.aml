@@ -2,7 +2,7 @@
     :inherit-from (piperack-components beam-class)
     :properties (
         max-spacing 4.5
-        intermediate-hangar-max 78
+        intermediate-hangar-max 7s8
 
 	:subobjects (
 
