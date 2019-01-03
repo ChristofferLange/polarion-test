@@ -1,0 +1,14 @@
+(define-class hangar-class
+    :inherit-from (piperack-components beam-class)
+    :properties (
+        max-spacing 4.5
+        intermediate-hangar-max 9
+        
+	:subobjects (
+
+        (beam-geometry :class beam-class
+            beam-section-type "BG100x100"
+            beam-aligment "center"
+            )
+    )
+)
